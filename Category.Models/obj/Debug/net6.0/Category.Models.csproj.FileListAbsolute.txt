@@ -1,0 +1,14 @@
+C:\Users\Computer lab\source\repos\Category\Category.Models\bin\Debug\net6.0\Category.Models.deps.json
+C:\Users\Computer lab\source\repos\Category\Category.Models\bin\Debug\net6.0\Category.Models.dll
+C:\Users\Computer lab\source\repos\Category\Category.Models\bin\Debug\net6.0\Category.Models.pdb
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\Category.Models.csproj.AssemblyReference.cache
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\Category.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\Category.Models.AssemblyInfoInputs.cache
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\Category.Models.AssemblyInfo.cs
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\Category.Models.csproj.CoreCompileInputs.cache
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\Category.Models.dll
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\refint\Category.Models.dll
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\Category.Models.pdb
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\ref\Category.Models.dll
+C:\Users\Computer lab\source\repos\Category\Category.Models\bin\Debug\net6.0\Category.Models.runtimeconfig.json
+C:\Users\Computer lab\source\repos\Category\Category.Models\obj\Debug\net6.0\Category.Models.genruntimeconfig.cache

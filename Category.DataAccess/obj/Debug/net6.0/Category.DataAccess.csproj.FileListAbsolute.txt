@@ -1,0 +1,17 @@
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\Category.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\Category.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\Category.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\Category.DataAccess.AssemblyInfo.cs
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\Category.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\bin\Debug\net6.0\Category.DataAccess.deps.json
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\bin\Debug\net6.0\Category.DataAccess.runtimeconfig.json
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\bin\Debug\net6.0\Category.DataAccess.dll
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\bin\Debug\net6.0\Category.DataAccess.pdb
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\bin\Debug\net6.0\Category.Models.dll
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\bin\Debug\net6.0\Category.Models.pdb
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\Category.DataAccess.csproj.CopyComplete
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\Category.DataAccess.dll
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\refint\Category.DataAccess.dll
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\Category.DataAccess.pdb
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\Category.DataAccess.genruntimeconfig.cache
+C:\Users\Computer lab\source\repos\Category\Category.DataAccess\obj\Debug\net6.0\ref\Category.DataAccess.dll

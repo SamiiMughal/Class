@@ -1,0 +1,288 @@
+﻿++Solution 'Category' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:Category.sln
+++Category.DataAccess
+i:{00000000-0000-0000-0000-000000000000}:Category.DataAccess
+++Dependencies
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:>343
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:>342
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>511
+++Data
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\source\repos\category\category.dataaccess\data\
+++ApplicationDbContext.cs
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\source\repos\category\category.dataaccess\data\applicationdbcontext.cs
+++Migrations
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\source\repos\category\category.dataaccess\migrations\
+++20220531151054_AddCategory.cs
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\source\repos\category\category.dataaccess\migrations\20220531151054_addcategory.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\source\repos\category\category.dataaccess\migrations\applicationdbcontextmodelsnapshot.cs
+++Analyzers
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:analyzers
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:analyzers
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:analyzers
+++Frameworks
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:frameworks
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:frameworks
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:frameworks
+++Packages
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:packages
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:packages
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:packages
+++Projects
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:projects
+++20220531151054_AddCategory.Designer.cs
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\source\repos\category\category.dataaccess\migrations\20220531151054_addcategory.designer.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:c:\users\computer lab\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:c:\users\computer lab\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\source\repos\category\category.dataaccess\microsoft.netcore.app
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:c:\users\computer lab\source\repos\category\category.models\microsoft.netcore.app
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:>520
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:>549
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>536
+++Microsoft.EntityFrameworkCore.Design (6.0.5)
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:>522
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:>551
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>539
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:>521
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:>550
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>538
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:>523
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:>552
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>540
+++Category.Models
+i:{c2d96129-2fdf-4693-90f3-0b56df1e5299}:c:\users\computer lab\source\repos\category\category.models\category.models.csproj
+i:{00000000-0000-0000-0000-000000000000}:Category.Models
+++Model
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:c:\users\computer lab\source\repos\category\category.models\model\
+++CategoryModel.cs
+i:{710476d2-70e7-4883-b190-91c2bf13c303}:c:\users\computer lab\source\repos\category\category.models\model\categorymodel.cs
+++Category
+i:{00000000-0000-0000-0000-000000000000}:Category
+++Connected Services 
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>512
+++Properties
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\properties\
+++wwwroot
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\
+++Controllers
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\controllers\
+++HomeController.cs
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\controllers\homecontroller.cs
+++WebCategoryController.cs
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\controllers\webcategorycontroller.cs
+++Models
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\models\
+++ErrorViewModel.cs
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\models\errorviewmodel.cs
+++Views
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\
+++appsettings.json
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\appsettings.json
+++Program.cs
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\program.cs
+++No service dependencies discovered
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>513
+++launchSettings.json
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\properties\launchsettings.json
+++css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\css\
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\js\
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\
+++favicon.ico
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\favicon.ico
+++Home
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\home\
+++Shared
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\shared\
+++WebCategory
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\webcategory\
+++_ViewImports.cshtml
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\_viewstart.cshtml
+++appsettings.Development.json
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\appsettings.development.json
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.AspNetCore.App
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\microsoft.aspnetcore.app
+++Fluent.Infrastructure (2.0.0-beta-01)
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>541
+++Microsoft.NETFramework.ReferenceAssemblies (1.0.2)
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>537
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:>542
+++site.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\css\site.css
+++site.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\js\site.js
+++bootstrap
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\
+++jquery
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery\
+++jquery-validation
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation-unobtrusive\
+++Index.cshtml
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\home\index.cshtml
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\webcategory\index.cshtml
+++Privacy.cshtml
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\shared\error.cshtml
+++Create_Add.cshtml
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\webcategory\create_add.cshtml
+++dist
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery\dist\
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery\license.txt
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\views\shared\_layout.cshtml.css
+++jquery.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{96d22b6b-0358-49ac-9dd4-a21b509afc32}:c:\users\computer lab\source\repos\category\category\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map

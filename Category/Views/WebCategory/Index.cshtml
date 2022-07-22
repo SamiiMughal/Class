@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Category.Models.CategoryModel>
+
+<table class="table table-hover text-center border border-dark table-responsive-sm">
+	<tr>
+		<th>Name</th>
+		<th>Display Order</th>
+		<th>DateTime</th>
+		<th>Edit</th>
+		<th>Delete</th>
+	</tr>
+
+	@{
+		foreach(var item in Model)
+		{
+			<tr>
+			<td>@item.Name</td>	
+			<td>@item.DisplayOrder</td>		
+			<td>@item.DateTime</td>				
+			</tr>
+		}
+	}
+</table>
